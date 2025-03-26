@@ -45,6 +45,7 @@ public class LoginPage extends BaseClass{
      		return text;
      		
      	}
+	system.out.println("Login");
          
         
          
